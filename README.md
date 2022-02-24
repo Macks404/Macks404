@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Macks404
 - 👀 I’m interested in Coding and Making games!
-- 🌱 I’m currently learning Unity Engine
-- 💞️ I’m looking to collaborate on Game Jams! msg me!
 - 📫 How to reach me: Discord: Macks#9317
 
 <!---
