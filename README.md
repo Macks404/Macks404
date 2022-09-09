@@ -2,7 +2,7 @@
 <h3 align="center">A programmer from England</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Macks404&label=Profile%20views&color=ce9927&style=flat" alt="Macks404" /> </p>
 
-- 🌱 I’m currently learning **Creating Cool Things C++ With SFML**
+- 🌱 I’m currently **Creating Cool Things In C++ With SFML**
 
 - 📫 How to reach me **Discord: Macks404#9317**
 
